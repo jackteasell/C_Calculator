@@ -1,0 +1,9 @@
+#+title: C Calulator
+
+
+* Goal:
+The goal of this project is to create a calulator that takes in string input ex "1+1" , "12 / 6" , "12 * 12" etc. And return the answer to the output, we will do this by using a Tokenizer/Lexer
+* TODOS
+** TODO Implement the Tokenizer
+* Notes & Etc.
+- This project is heavily inspired by Tsoding's video: [[youtube:https://www.youtube.com/watch?v=AqyZztKlSGQ&t=1021s][Military Grade C/C++ Lexer from Scratch]]
